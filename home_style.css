@@ -31,3 +31,7 @@ body {
 .links a:active {
     color: blue;
 }
+
+.link_div:hover {
+    background-color:#4CAF50;
+}
