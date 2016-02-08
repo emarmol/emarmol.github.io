@@ -1,4 +1,9 @@
 #header {
-	size:14px;
+	size:24em;
 	text-align: center;
+}
+
+.links {
+       size: 12em;
+       color: red;
 }
