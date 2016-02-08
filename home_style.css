@@ -14,18 +14,18 @@ body {
        text-align:center;
 }
 
-a:link {
-    color: #FF0000;
+.links a:link {
+    color: black;
 }
 
-a:visited {
-    color: #00FF00;
+.links a:visited {
+    color: gray;
 }
 
-a:hover {
-    color: #FF00FF;
+.links a:hover {
+    color: #4CAF50;
 }
 
-a:active {
-    color: #0000FF;
+.links a:active {
+    color: blue;
 }
