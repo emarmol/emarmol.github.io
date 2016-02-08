@@ -29,6 +29,6 @@ body {
     color: blue;
 }
 
-.links div:hover {
+div:hover {
     border: 1px solid gray;
 }
