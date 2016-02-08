@@ -11,10 +11,10 @@ body {
 
 .links {
        font-size: 1em;
-       border: 2px dashed;
        padding: 10px 20px;
        text-align:center;
        width:50%;
+       margin-left:25%;
 }
 
 .links a:link {
@@ -22,17 +22,13 @@ body {
 }
 
 .links a:visited {
-    color: gray;
-}
-
-.links a:hover {
-    color: #ffff99;
+    color: darkgray;
 }
 
 .links a:active {
     color: blue;
 }
 
-div:hover {
-    background-color: #ffff99;
+.links div:hover {
+    border: 1px solid gray;
 }
