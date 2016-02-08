@@ -32,6 +32,6 @@ body {
     color: blue;
 }
 
-.link_div:hover {
-    background-color:#4CAF50;
+div:hover {
+    background-color: #4CAF50;
 }
