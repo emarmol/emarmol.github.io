@@ -55,3 +55,7 @@ table {
    font-size: 1.12em;
    font-weight:bold;
 }
+
+.tab {
+   padding-left:3em
+}
