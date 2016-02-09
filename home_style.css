@@ -35,3 +35,7 @@ body {
 div.links:hover {
     border: 1px solid gray;
 }
+
+img {
+    height:50%;
+}
