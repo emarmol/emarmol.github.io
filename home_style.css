@@ -1,7 +1,10 @@
 body {
-     font-family: "Lucida Console", Monaco, monospace;
+     font-family: Georgia, Times, 'Times New Roman', serif;
      margin-left:25%;
      margin-right:25%;
+     background-color: #FFFFCC;
+     font-variant: small-caps;
+
 }
 
 #header {
@@ -13,8 +16,6 @@ body {
        font-size: 1em;
        padding: 10px 20px;
        text-align:center;
-       width:50%;
-       margin-left:25%;
 }
 
 .links a:link {
@@ -22,7 +23,7 @@ body {
 }
 
 .links a:visited {
-    color: darkgray;
+    color: #333333
 }
 
 .links a:active {
@@ -31,4 +32,10 @@ body {
 
 div.links:hover {
     border: 1px solid gray;
+}
+
+div {
+    align:center;
+    width:50%;
+    margin-left:25%;
 }
