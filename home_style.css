@@ -50,3 +50,8 @@ table {
 #v-align {
     margin-top:10%;
 }
+
+.main-section {
+   font-size: 2em;
+   font-weight:bold;
+}
