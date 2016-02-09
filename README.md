@@ -9,6 +9,7 @@ Assignment 1:
 			+CSS has been checked on the CSS validator page given
 			+No jQuery/JavaScript has been used
 			+All content found at emarmol.github.io
+			+eecs.tufts.edu/~emarmo01 redirects to emarmol.github.io
 	   - I did not collaborate with anyone on this assignment
 	   - I spent approximately 4/5  hours on this assignment (including troubleshooting with setting up Git)
 	   
