@@ -37,7 +37,8 @@ div.links:hover {
 }
 
 img {
-    height:5%;
+    height:50px;
+    width:50px;
 }
 
 table {
