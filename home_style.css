@@ -16,6 +16,8 @@ body {
        font-size: 1em;
        padding: 10px 20px;
        text-align:center;
+       width:50%;
+       margin-left:25%;
 }
 
 .links a:link {
@@ -32,10 +34,4 @@ body {
 
 div.links:hover {
     border: 1px solid gray;
-}
-
-div {
-    align:center;
-    width:50%;
-    margin-left:25%;
 }
